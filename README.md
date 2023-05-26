@@ -8,7 +8,7 @@ CV with Html and Css
 
 ## Live Site
 
-[Show CV](https://aygulysn.github.io/CV-/)
+[Show CV](https://yasin-aygl.github.io/CV-/)
 
 
 
